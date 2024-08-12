@@ -1,4 +1,4 @@
 version: STSv1
 mode: testing
-mx: powershellgeek-com.t-v1.mx.microsoft.com
+mx: powershellgeek-com.t-v1.mx.microsoft
 max_age: 604800
